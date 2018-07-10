@@ -1,6 +1,7 @@
 # Machine-Learning-with-R
 Machine learning algorithms implemented using R language
 
-1) Notorious Titanic Survival Prediction:
+## Titanic Survival Prediction:
+Predicting the survival on notorious titanic sinking tragedy
 Data Source: [Kaggle](https://www.kaggle.com/c/titanic)
 
